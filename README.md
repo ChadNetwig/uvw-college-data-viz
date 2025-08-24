@@ -170,7 +170,6 @@ For UVW College, these results provide a **data-driven foundation for marketing 
 - **Data cleaning:** The dataset contains `?` values for several categorical fields; those are handled in the script (replaced/aggregated).  
 - **Category grouping:** Education and native-country are aggregated for readability (per the design objective).  
 - **Reproducibility:** The Python script reads local files — confirm the `adult.data.txt` and `adult.names.txt` files exist and are named correctly.  
-- **Markdown caution:** When showing shell or code in the README, wrap it with triple backticks (for example ```bash or ```python) and **close** the block with matching triple backticks to avoid rendering issues.  
 
 ---
 
