@@ -50,10 +50,6 @@ Line chart aggregating weekly hours across education-num levels and income bucke
 Scatterplot with regression annotations showing how capital gain varies with age and country groups (split by income). Useful for identifying country/age cohorts with high capital gains.  
 <img src="./assets/chart-5-Distribution of Average Capital-Gain Across Average Age-Native Country-and Income.png" alt="Capital Gain vs Age and Country" width="500"/>
 
-**6) Notebook / README snippet (markdown code block example)**  
-A screenshot showing where markdown can "jump out" if triple backticks are not closed — included to remind contributors to close code fences.  
-<img src="./assets/8d05fb5a-36d8-4798-8273-1a66577a867c.png" alt="Markdown snippet reminder" width="500"/>
-
 ---
 
 ## 🧰 Technologies Used
@@ -96,7 +92,7 @@ Ensure adult.data.txt and adult.names.txt are present in the repo root.
 jupyter notebook Final-report-uvw-analysis.py
 ```
 
-** Or run as script:
+** Or run as script:**
 ```bash
 python Final-report-uvw-analysis.py
 ```
