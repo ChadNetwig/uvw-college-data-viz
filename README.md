@@ -1,6 +1,6 @@
 # 🎓 UVW College — Data Visualization Project
 
-Data visualizations and analysis created for UVW College to identify demographic factors associated with earning ≤$50,000 vs >$50,000 (U.S. Census "Adult" dataset). Delivered as part of CSE 578 (Data Visualization). Python analysis code is included; Tableau was used for some production-quality visuals.
+Data visualizations and analysis created for UVW College to identify demographic factors associated with earning ≤$50,000 vs >$50,000 (U.S. Census "Adult" dataset). Python analysis code is included; Tableau was used for some production-quality visuals.
 
 ---
 
@@ -66,7 +66,6 @@ Scatterplot with regression annotations showing how capital gain varies with age
 Key files in this repository:
 
 - `Final-report-uvw-analysis.py` — primary Python analysis script (data cleaning, grouping, and Matplotlib/Seaborn plots).  
-- `ChadNetwig_CSE 578_Course Project Final Report.pdf` — final written report.  
 - `/assets/` — exported visualization PNGs created in Tableau or Matplotlib.  
 - Raw data: `adult.data.txt`, `adult.names.txt` (download from UCI and place in repo root).
 
